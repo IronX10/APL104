@@ -1,6 +1,6 @@
 # Displacement-Controlled Loading Analysis
 
-### Overview
+## Overview
 This project analyzes displacement-controlled loading of materials using data-driven approaches. The workflow involves three main steps:
 
 1. **Polynomial Regression:** Generate polynomial equations for displacement components (u_x and u_y) using `polynomial.py`.
