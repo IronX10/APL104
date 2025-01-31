@@ -1,7 +1,5 @@
 # Displacement-Controlled Loading Analysis
 
-## Report and Problem Statement
-
 ### Overview
 This project analyzes displacement-controlled loading of materials using data-driven approaches. The workflow involves three main steps:
 
